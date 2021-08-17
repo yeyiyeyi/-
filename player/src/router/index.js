@@ -1,7 +1,7 @@
 /*
  * @Author: your name
- * @Date: 2021-08-17 14:12:16
- * @LastEditTime: 2021-08-17 14:52:26
+ * @Date: 2021-08-17 16:23:25
+ * @LastEditTime: 2021-08-17 16:27:17
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \player\src\router\index.js
